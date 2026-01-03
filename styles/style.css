@@ -25,12 +25,14 @@
     list-style: none;
 
 }
+
 .menu__link {
     text-decoration: underline;
     text-decoration-thickness: 1px;
     text-underline-offset: 4px; 
 
 }
+
 .header__menu {
     font-size: 18px;
     display: flex;
@@ -40,11 +42,13 @@
 
 
 }
+
 .menu__link_active:hover {
     text-decoration: none;
     
 
 }
+
 .header__links-list {
     display: flex;
     
@@ -71,6 +75,7 @@
     text-underline-offset: 4px; 
     line-height: 140%;
 }
+
 .header-address {
     margin-left: 150px;
     justify-self: center;
@@ -144,7 +149,6 @@
 
 
 .cover__description {
-    min-height: 28px;
     display: flex;
     font-size: 22px;
     font-style: normal;
@@ -230,6 +234,7 @@
 
 
 .card-title {
+
     color: white;
     font-size: 22px;
     font-weight: bold;
@@ -332,7 +337,7 @@
 .footer {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    min-height: 180px;
+    
 
     
 
