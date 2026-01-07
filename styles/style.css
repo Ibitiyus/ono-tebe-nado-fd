@@ -45,6 +45,7 @@
 
 .menu__link_active:hover {
     text-decoration: none;
+    border: none;
     
 
 }
@@ -337,6 +338,7 @@
 .footer {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    margin-bottom: 82px;
     
 
     
